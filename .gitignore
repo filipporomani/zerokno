@@ -1,0 +1,4 @@
+
+*.gz
+zerokno/zerokno.egg-info/PKG-INFO
+*.txt
