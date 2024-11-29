@@ -2,3 +2,5 @@
 *.gz
 zerokno/zerokno.egg-info/PKG-INFO
 *.txt
+zerokno/__pycache__/zerokno.cpython-312.pyc
+test
